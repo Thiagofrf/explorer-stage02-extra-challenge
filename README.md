@@ -27,7 +27,7 @@ This project was developed using the following technologies:
 
 ## Project
 
-Rocketseat Explorer - Extra challenge - create static website according to layout
+Rocketseat Explorer - Stage 02 - Extra challenge - create static website according to layout
 
 ## See Project
 
